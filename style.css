@@ -57,7 +57,7 @@ body{
     width: 64px;
 }
 
-.card h2{
+.card h1{
     padding-top: 0.9rem;
     font-family: var(--bigShouldersDisplayFont);
     text-transform: uppercase;
@@ -132,7 +132,7 @@ button:hover{
         gap: 1.7rem;
     }
 
-    .card h2{
+    h1{
         padding-top: 0;
 
     }
@@ -146,9 +146,6 @@ button:hover{
     }
 
     button{
-        margin-top: 3.5rem;
-
-        
-        
+        margin-top: 3.5rem; 
     }
 }
